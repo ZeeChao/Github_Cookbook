@@ -59,7 +59,7 @@
 
 ### 命令行操作
 
-- 启用基本分支保护（需有管理员权限）���
+- 启用基本分支保护（需有管理员权限）
   ```bash
   gh api -X PUT repos/<owner>/<repo>/branches/<branch>/protection \
     -f required_status_checks.strict=true \
