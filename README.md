@@ -5,14 +5,14 @@ Quick Self-Check
 Github_Cookbook/
 ├── README.md
 ├── docs/
-│   ├── github-basics.md           # GitHub基础操作
-│   ├── repository-management.md   # 仓库管理与协作
-│   ├── issues-pr.md               # Issue与Pull Request流程
-│   ├── actions-ci-cd.md           # GitHub Actions与CI/CD
+│   ├── github_basics.md           # GitHub基础操作
+│   ├── repository_management.md   # 仓库管理与协作
+│   ├── issues_pr.md               # Issue与Pull Request流程
+│   ├── actions_ci_cd.md           # GitHub Actions与CI/CD
 │   ├── security.md                # 权限、安全、合规
-│   ├── github-pages.md            # GitHub Pages网站搭建
-│   ├── workflow-templates/        # 工作流示例与模板
-│   └── tips-tricks.md             # GitHub进阶技巧与最佳实践
+│   ├── github_pages.md            # GitHub Pages网站搭建
+│   ├── workflow_templates/        # 工作流示例与模板
+│   └── tips_tricks.md             # GitHub进阶技巧与最佳实践
 ├── examples/
 │   ├── actions/                   # 各类Actions配置示例
 │   ├── pages/                     # Pages项目案例
