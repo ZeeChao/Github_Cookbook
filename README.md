@@ -1,6 +1,7 @@
 # Github_Cookbook
 Quick Self-Check
 
+```
 Github_Cookbook/
 ├── README.md
 ├── docs/
@@ -20,3 +21,4 @@ Github_Cookbook/
 │   ├── images/                    # 配图、截图等素材
 │   └── diagrams/                  # 操作流程、架构图等
 └── LICENSE
+```
